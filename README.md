@@ -1,3 +1,4 @@
+Source: https://www.schoolofhaskell.com/user/stepcut/the-happstack-crashcourse
 #Install Haskell
 ```
 sudo apt-get install -y haskell-platform
